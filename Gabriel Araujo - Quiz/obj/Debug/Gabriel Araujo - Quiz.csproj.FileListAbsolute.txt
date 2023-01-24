@@ -1,0 +1,11 @@
+D:\2ºANO\DS\2ºBIMESTRE\Gabriel Araujo - Quiz\Gabriel Araujo - Quiz\bin\Debug\Gabriel Araujo - Quiz.exe.config
+D:\2ºANO\DS\2ºBIMESTRE\Gabriel Araujo - Quiz\Gabriel Araujo - Quiz\bin\Debug\Gabriel Araujo - Quiz.exe
+D:\2ºANO\DS\2ºBIMESTRE\Gabriel Araujo - Quiz\Gabriel Araujo - Quiz\bin\Debug\Gabriel Araujo - Quiz.pdb
+D:\2ºANO\DS\2ºBIMESTRE\Gabriel Araujo - Quiz\Gabriel Araujo - Quiz\obj\Debug\Gabriel Araujo - Quiz.csproj.AssemblyReference.cache
+D:\2ºANO\DS\2ºBIMESTRE\Gabriel Araujo - Quiz\Gabriel Araujo - Quiz\obj\Debug\Gabriel_Araujo___Quiz.Form1.resources
+D:\2ºANO\DS\2ºBIMESTRE\Gabriel Araujo - Quiz\Gabriel Araujo - Quiz\obj\Debug\Gabriel_Araujo___Quiz.Form2.resources
+D:\2ºANO\DS\2ºBIMESTRE\Gabriel Araujo - Quiz\Gabriel Araujo - Quiz\obj\Debug\Gabriel_Araujo___Quiz.Properties.Resources.resources
+D:\2ºANO\DS\2ºBIMESTRE\Gabriel Araujo - Quiz\Gabriel Araujo - Quiz\obj\Debug\Gabriel Araujo - Quiz.csproj.GenerateResource.cache
+D:\2ºANO\DS\2ºBIMESTRE\Gabriel Araujo - Quiz\Gabriel Araujo - Quiz\obj\Debug\Gabriel Araujo - Quiz.csproj.CoreCompileInputs.cache
+D:\2ºANO\DS\2ºBIMESTRE\Gabriel Araujo - Quiz\Gabriel Araujo - Quiz\obj\Debug\Gabriel Araujo - Quiz.exe
+D:\2ºANO\DS\2ºBIMESTRE\Gabriel Araujo - Quiz\Gabriel Araujo - Quiz\obj\Debug\Gabriel Araujo - Quiz.pdb
